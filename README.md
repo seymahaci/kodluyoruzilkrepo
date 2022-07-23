@@ -45,7 +45,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![İlk Repom](https://resimyukle.io/r/1lquiA7DZZ)
-
+![Fotograf](https://resminiz.com/resimler/e9424902e1195824d8a43b7b9b3b3ff5.png)
 
 
