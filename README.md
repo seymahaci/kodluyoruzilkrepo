@@ -45,7 +45,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-![İlk Repom](https://imgyukle.com/i/VtqXqS)
+![İlk Repom](https://resimyukle.io/r/1lquiA7DZZ)
 
 
 
